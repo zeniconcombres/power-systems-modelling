@@ -13,6 +13,7 @@ PSSE software is also only available in 32b. If installing the Python library `p
 Run test_psse34_psspy_install.py to check basic install is correct and have PSSE open on your computer (this is very important!) before running the script.
 
 Successful test of installation should output something similat to the following in the terminal:
+
      PSS(R)E Version 34
      Copyright (c) 1976-2022
      Siemens Industry, Inc.,
